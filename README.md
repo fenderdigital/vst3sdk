@@ -3,6 +3,9 @@
 
 # Welcome to VST SDK 3.7.x
 
+> [!NOTE]
+> This fork contains PreSonus Plug-In Extensions and modifications to the VST3 SDK to showcase these extensions.
+
 ## Table Of Contents
 
 1. [The VST SDK package](#100)
