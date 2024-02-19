@@ -13,6 +13,9 @@
 [submodule "public.sdk"]
 	path = public.sdk
 	url = https://github.com/fenderdigital/vst3_public_sdk
+[submodule "tutorials"]
+	path = tutorials
+	url = ../vst3_tutorials
 [submodule "vstgui4"]
 	path = vstgui4
 	url = https://github.com/fenderdigital/vstgui
